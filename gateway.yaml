@@ -2,7 +2,7 @@
 # URLs directly you should always be pointed to the most recent link and must be direct downloads
 # hashs are sha256
 
-code: https://github.com/TuragaLab/DECODE/archive/master.zip
+code: https://github.com/DyFan777/DECODE/archive/master.zip
 
 examples:
   experimental_data_workflow:
